@@ -1,2 +1,2 @@
 # TstRepo
-This repository for test purpose
+This repository for test purpose.
